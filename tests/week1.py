@@ -1,4 +1,4 @@
-""" Create tests for the week1 function in week1.py file"""
+""" Create tests for the week1 function in week1/solution.py file"""
 import unittest
 
 from week1.solution import week1
