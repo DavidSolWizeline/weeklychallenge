@@ -41,3 +41,15 @@ To run the tests execute from the project root directory:
 ```bash
 python3 -m unittest tests/week2.py
 ```
+
+## Week5
+
+The solution is on the function **week5** in the **week5/solution.py** file.
+
+Notes: I cheated, if you sort the list, it is trivial to find the individual integer. And you don't need to use another data structure, just the original list.
+
+To run the tests execute from the project root directory:
+
+```bash
+python3 -m unittest tests/week5.py
+```
